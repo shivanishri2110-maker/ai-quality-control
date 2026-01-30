@@ -18,6 +18,7 @@ Features
 # Bounding boxes and confidence scores rendered on video
 
 # Acts as a pseudo-prototype for industrial quality control systems
+Requirements
 
 Tech Stack
 
